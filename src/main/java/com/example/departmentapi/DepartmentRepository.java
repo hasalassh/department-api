@@ -1,4 +1,4 @@
-package com.example.department.departmentapi;
+package com.example.departmentapi;
 
 import org.springframework.data.repository.CrudRepository;
 

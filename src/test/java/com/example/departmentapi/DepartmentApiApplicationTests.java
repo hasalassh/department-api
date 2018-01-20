@@ -1,4 +1,4 @@
-package com.example.department.departmentapi;
+package com.example.departmentapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
